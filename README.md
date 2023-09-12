@@ -1,4 +1,4 @@
-
+![logo](https://github.com/krutikagavit/krutikagavit/blob/main/SHRIRAM%20WAKCHAU%20(1).gif)
 <h1 align="center">Hi 👋, I'm Krutika Gavit</h1>
 <h3 align="center">A Passionate Computer Science Engineer</h3>
 
