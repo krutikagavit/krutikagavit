@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Developing my Coding Skills**
 
-- 🌱 I’m currently learning **java script**
+- 🌱 I’m currently learning **about Git and Github**
 
 - 👨‍💻 All of my projects are available at [https://github.com/krutikagavit](https://github.com/krutikagavit)
 
