@@ -1,10 +1,10 @@
 ![logo](https://github.com/krutikagavit/krutikagavit/blob/main/SHRIRAM%20WAKCHAU%20(1).gif)
 <h1 align="center">Hi 👋, I'm Krutika Gavit</h1>
-<h3 align="center">A Passionate Computer Science Engineer</h3>
+<h3 align="center">A Computer Application Enthusiast</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=krutikagavit&label=Profile%20views&color=0e75b6&style=flat" alt="krutikagavit" /> </p>
 
-- 🔭 I’m currently working on **Improving my skills**
+- 🔭 I’m currently working on **Developing my Coding Skills**
 
 - 🌱 I’m currently learning **java script**
 
@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **krutikagvt@gmail.com**
 
-- ⚡ Fun fact **I am always underestimated**
+- ⚡ Fun fact **Get the error at a line where I haven't written any code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
