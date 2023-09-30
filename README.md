@@ -16,7 +16,7 @@
 
 - 📫 How to reach me **krutikagvt@gmail.com**
 
-- ⚡ Fun fact **Get the error at a line where I haven't written any code**
+- ⚡ Fun fact **Get error at a line where I haven't written any code**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
